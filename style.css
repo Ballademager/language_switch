@@ -1,0 +1,10 @@
+body {
+  margin: 2rem 2rem;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.header,
+.footer,
+p {
+  font-size: 3rem;
+  margin-block: 1rem;
+}
